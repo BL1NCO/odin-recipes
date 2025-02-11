@@ -1,0 +1,15 @@
+body{
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h3{
+    color: red;
+}
